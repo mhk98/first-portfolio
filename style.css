@@ -46,6 +46,10 @@ h2 .size{
     text-align: center;
 }
 
+.mission-area h2{
+    text-align: center;
+}
+
 .goals-area{
    display: flex; 
    margin-right: 200px;
